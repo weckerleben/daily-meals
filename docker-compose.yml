@@ -1,0 +1,7 @@
+version: '3'
+services:
+  daily-meals-api:
+    build: .
+    restart: always
+    volumes:
+      - /etc/localtime:/etc/localtime:ro

@@ -1,0 +1,5 @@
+numpy==1.25.1
+requests==2.31.0
+twilio==8.5.0
+
+messagebird~=2.1.0
